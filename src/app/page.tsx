@@ -26,7 +26,7 @@ export default function LandingPage() {
               your <span className="text-pink-primary">connections.</span>
             </h1>
             <p className="text-lg text-text-muted leading-relaxed mb-8 max-w-lg">
-              UniPair is the safest, women-first dating platform built for university students. Browse profiles like a store — discover, request, and connect only when you're both ready.
+              UniPair is the safest, women-first dating platform built for university students. Browse profiles like a store — discover, request, and connect only when you&apos;re both ready.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 mb-12">
@@ -128,7 +128,7 @@ export default function LandingPage() {
                 num: '01',
                 icon: '🔍',
                 title: 'Browse profiles',
-                desc: 'Discover verified university students. Filter by course, hobby, grad year, or what you're looking for.',
+                desc: "Discover verified university students. Filter by course, hobby, grad year, or what you're looking for.",
               },
               {
                 num: '02',
